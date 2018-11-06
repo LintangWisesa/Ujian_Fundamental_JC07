@@ -81,13 +81,13 @@ __*Requirements*__:
 - User dapat mengisi data __nama__, __tanggal lahir__ dan __kota__. Saat tombol __DAFTAR__ ditekan, otomatis akan menampilkan data dari user tersebut dalam bentuk __tabel__.
 
 - Data tabel yang ditampilkan memiliki kolom berikut: 
-1. __Nama__, 
-2. __Tanggal Lahir__ (*terdiri atas 3 sub-kolom: __tanggal__, __bulan__ & __tahun__*), 
-3. __Zodiak__ (referensi Zodiak silakan Googling), 
-4. __Usia__, 
-5. __Pensiun__ (berapa tahun lagi akan pensiun. Usia pensiun = 55 tahun), 
-6. __Kota__, 
-7. serta memiliki tombol __Hapus__ untuk menghapus data.
+  - __Nama__, 
+  - __Tanggal Lahir__ (*terdiri atas 3 sub-kolom: __tanggal__, __bulan__ & __tahun__*), 
+  - __Zodiak__ (referensi Zodiak silakan Googling), 
+  - __Usia__, 
+  - __Pensiun__ (berapa tahun lagi akan pensiun. Usia pensiun = 55 tahun), 
+  - __Kota__, 
+  - serta memiliki tombol __Hapus__ untuk menghapus data.
 
 - Disediakan pula __6 buah tombol__ untuk mensortir data berdasarkan kolom __Nama__, __Usia__ & __Kota__, baik secara __Ascending__ maupun __Descending__.
 
